@@ -1,6 +1,11 @@
 # srm-erp
 **Stimulus presentation scripts for the SRM paradigm**
 
+*Please note that the terms SRP and SRM are used interchangeably in the scripts/papers (potentiation vs. modulation).*
+
+Also, be aware that the code is set up to utilise triggers via a serial port. *This will not work "out of the box", so be prepared to tweak the code quite a bit before it will run on your system.*
+
+
 This repository contains the MATLAB scripts for the Stimulus-Response Modulation (SRM) paradigm employed in the following papers:
 * Rygvold, T. W., Hatlestad-Hall, C. et al. (2021). Do visual and auditory stimulus-specific response modulation reflect different mechanisms of neocortical plasticity? *The European Journal of Neuroscience*, 53(4), 1072–1085. https://doi.org/10.1111/ejn.14964
 * Rygvold, T. W. et al. (2022). Long-Term Potentiation-Like Visual Synaptic Plasticity Is Negatively Associated With Self-Reported Symptoms of Depression and Stress in Healthy Adults. *Frontiers in Human Neuroscience*, 16, 867675. https://doi.org/10.3389/fnhum.2022.867675
